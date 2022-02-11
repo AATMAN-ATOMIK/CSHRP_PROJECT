@@ -1,0 +1,6 @@
+C:\Users\Er Pranav Trivedi\Desktop\IT4\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\Er Pranav Trivedi\Desktop\IT4\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Er Pranav Trivedi\Desktop\IT4\Arrays\Arrays\obj\x86\Debug\Arrays.exe
+C:\Users\Er Pranav Trivedi\Desktop\IT4\Arrays\Arrays\obj\x86\Debug\Arrays.pdb
+E:\Arrays\Arrays\obj\x86\Debug\Arrays.exe
+E:\Arrays\Arrays\obj\x86\Debug\Arrays.pdb
